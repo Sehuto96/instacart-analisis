@@ -1,4 +1,14 @@
+# Entorno virtual
 .venv/
-__pycache__/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Python
+__pycache__/
+
+# Datos crudos: no se suben por su tamaño
 data/raw/*.csv
+
+# Tabla maestra: pesa mucho y el cuaderno la vuelve a generar
+data/processed/instacart_master.parquet

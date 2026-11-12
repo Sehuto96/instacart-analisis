@@ -1,0 +1,6 @@
+tabla,problema,evidencia
+orders,Filas duplicadas,15
+orders,Nulos en days_since_prior_order,28819
+products,Nulos en product_name,1258
+order_prods,Nulos en add_to_cart_order,836
+orders,Pedidos sin productos,28906
